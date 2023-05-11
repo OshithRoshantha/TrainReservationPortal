@@ -1,0 +1,25 @@
+---------------------------------------------
+          RAILWAY RESERVATION PORTAL
+---------------------------------------------
+Ref No:62855			Date:2023-05-10
+                -E-TICKET-
+
+TrainNo:		1091
+Total Amount:	Rs.5625 (PAID)
+From:			COLOMBO FORT
+To:			ELLA
+Departure Date:	2023-5-11
+
+Train Class(Selected):
+Air Conditioned Saloon
+2 ADULTS 1 CHILD seat(s) reserved.
+
+Passenger Name:	G.RANTHILINA
+Contact:		0761478523
+
+Issued time:	13:40:37
+
+---------------------------------------------
+        Group 20 PROJECT-COSC12043
+---------------------------------------------
+---------------------------------------------

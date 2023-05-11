@@ -1,0 +1,17 @@
+---------------------------------------------
+PAYMENT CONFIRMATION
+Transaction ID: 797595055
+---------------------------------------------
+Here is the summary of your payment.
+Payment Information:
+     Date:			10-05-2023 13:40:37
+     Status:		Success
+     Payment Method:	(VISA)
+     Card Number:		XXXX-XXXX-8462-1478
+Payment Details:
+     Sub Total:		LRK	5625
+
+---------------------------------------------
+        Group 20 PROJECT-COSC12043
+---------------------------------------------
+---------------------------------------------
