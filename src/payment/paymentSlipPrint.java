@@ -36,7 +36,7 @@ public class paymentSlipPrint implements interfaces.paymentSlipPrint {
         text2.println("Payment Details:");
         text2.println("     Sub Total:\t\tLRK\t"+totalAmount);
         text2.println("\n---------------------------------------------");
-        text2.println("        Group 20 PROJECT-COSC12043");
+        text2.println("All Rights Reserved. Created by Oshith Roshantha.");
         text2.println("---------------------------------------------");
         text2.println("---------------------------------------------");
 

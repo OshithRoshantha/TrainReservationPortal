@@ -182,7 +182,7 @@ public class displayPrice extends javax.swing.JFrame {
         jLabel9.setFont(new java.awt.Font("Calibri", 1, 14));
         jLabel9.setForeground(new java.awt.Color(0, 51, 102));
         jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel9.setText("Group 20 PROJECT-COSC12043");
+        jLabel9.setText("All Rights Reserved. Created by Oshith Roshantha.");
 
         jButton1.setBackground(new java.awt.Color(0, 51, 102));
         jButton1.setFont(new java.awt.Font("Calibri", 1, 18));

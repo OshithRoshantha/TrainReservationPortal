@@ -80,7 +80,7 @@ public class eTicket extends javax.swing.JFrame {
         jLabel9.setFont(new java.awt.Font("Calibri", 1, 14));
         jLabel9.setForeground(new java.awt.Color(0, 51, 102));
         jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel9.setText("Group 20 PROJECT-COSC12043");
+        jLabel9.setText("All Rights Reserved. Created by Oshith Roshantha.");
 
         jLabel4.setFont(new java.awt.Font("Calibri", 1, 36));
         jLabel4.setText(access10.getFirstName().toUpperCase());
