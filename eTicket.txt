@@ -1,25 +1,25 @@
 ---------------------------------------------
           RAILWAY RESERVATION PORTAL
 ---------------------------------------------
-Ref No:62855			Date:2023-05-10
+Ref No:73546			Date:2024-02-24
                 -E-TICKET-
 
-TrainNo:		1091
-Total Amount:	Rs.5625 (PAID)
-From:			COLOMBO FORT
-To:			ELLA
-Departure Date:	2023-5-11
+TrainNo:		1063
+Total Amount:	Rs.4500 (PAID)
+From:			GAMPAHA
+To:			IDALGASHINNA
+Departure Date:	2023-3-3
 
 Train Class(Selected):
 Air Conditioned Saloon
-2 ADULTS 1 CHILD seat(s) reserved.
+2 ADULTS 0 CHILD seat(s) reserved.
 
-Passenger Name:	G.RANTHILINA
-Contact:		0761478523
+Passenger Name:	K.FAWF
+Contact:		ewfa
 
-Issued time:	13:40:37
+Issued time:	12:51:02
 
 ---------------------------------------------
-        Group 20 PROJECT-COSC12043
+               By Oshith Roshantha.
 ---------------------------------------------
 ---------------------------------------------

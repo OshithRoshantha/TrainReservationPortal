@@ -80,7 +80,7 @@ public class paymentSuccess extends javax.swing.JFrame {
         jLabel7.setFont(new java.awt.Font("Calibri", 1, 14));
         jLabel7.setForeground(new java.awt.Color(0, 51, 102));
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel7.setText("All Rights Reserved. Created by Oshith Roshantha.");
+        jLabel7.setText("By Oshith Roshantha.");
 
         jLabel5.setFont(new java.awt.Font("Calibri", 1, 24));
 
