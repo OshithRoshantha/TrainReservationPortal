@@ -39,7 +39,7 @@ public class eTicket implements interfaces.eTicket {
             text.println("Contact:\t\t"+access9.getContactNo());
             text.println("\nIssued time:\t" + timeNow);
             text.println("\n---------------------------------------------");
-            text.println("All Rights Reserved. Created by Oshith Roshantha.");
+            text.println("               By Oshith Roshantha.");
             text.println("---------------------------------------------");
             text.println("---------------------------------------------");
 

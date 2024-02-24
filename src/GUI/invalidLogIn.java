@@ -86,7 +86,7 @@ public class invalidLogIn extends javax.swing.JFrame {
         jLabel7.setFont(new java.awt.Font("Calibri", 1, 14));
         jLabel7.setForeground(new java.awt.Color(0, 51, 102));
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel7.setText("All Rights Reserved. Created by Oshith Roshantha.");
+        jLabel7.setText("By Oshith Roshantha.");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

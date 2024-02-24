@@ -261,7 +261,7 @@ public class signUp extends javax.swing.JFrame {
         jLabel6.setFont(new java.awt.Font("Calibri", 1, 14));
         jLabel6.setForeground(new java.awt.Color(0, 51, 102));
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel6.setText("All Rights Reserved. Created by Oshith Roshantha.");
+        jLabel6.setText("By Oshith Roshantha.");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
